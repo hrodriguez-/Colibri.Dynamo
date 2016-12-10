@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colibri.Dynamo", "Colibri.Dynamo\Colibri.Dynamo.csproj", "{9F42C05E-5E37-4B82-85BA-A6723408ECCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colibri.Dynamo.UI", "Colibri.Dynamo.UI\Colibri.Dynamo.UI.csproj", "{77E32147-3CA9-48B2-B500-38E960CBE3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colibri.Dynamo.Utilities", "Colibri.Dynamo.Utilities\Colibri.Dynamo.Utilities.csproj", "{E57C43BE-7289-4F82-A4F7-C1272498C818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9F42C05E-5E37-4B82-85BA-A6723408ECCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F42C05E-5E37-4B82-85BA-A6723408ECCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F42C05E-5E37-4B82-85BA-A6723408ECCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E32147-3CA9-48B2-B500-38E960CBE3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E32147-3CA9-48B2-B500-38E960CBE3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E32147-3CA9-48B2-B500-38E960CBE3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E32147-3CA9-48B2-B500-38E960CBE3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57C43BE-7289-4F82-A4F7-C1272498C818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57C43BE-7289-4F82-A4F7-C1272498C818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57C43BE-7289-4F82-A4F7-C1272498C818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57C43BE-7289-4F82-A4F7-C1272498C818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
