@@ -21,21 +21,20 @@ namespace Colibri.Dynamo
         /// </summary>
         public int B { get; set; }
 
-        internal Domain( int a, int b)
-        {
-            this.A = a;
-            this.B = b;
-        }
+        /// <summary>
+        /// 
+        /// </summary>
+        public string Name { get; set; }
 
         /// <summary>
         /// 
         /// </summary>
-        /// <param name="A"></param>
-        /// <param name="B"></param>
-        /// <returns></returns>
-        public static Domain Create(int A, int B)
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        public Domain( int a, int b)
         {
-            return new Domain(A, B);
+            this.A = a;
+            this.B = b;
         }
     }
 }

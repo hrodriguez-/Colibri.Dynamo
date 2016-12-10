@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Colibri.Dynamo")]
+[assembly: AssemblyTitle("Colibri.Dynamo.Utilities")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Colibri.Dynamo")]
+[assembly: AssemblyProduct("Colibri.Dynamo.Utilities")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9f42c05e-5e37-4b82-85ba-a6723408ecce")]
+[assembly: Guid("e57c43be-7289-4f82-a4f7-c1272498c818")]
 
 // Version information for an assembly consists of the following four values:
 //
